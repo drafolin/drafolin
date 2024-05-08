@@ -1,26 +1,10 @@
-### Hi there 👋
-Heya! I'm Dråfølin, yet another developer!
+Hi there, fellow developer! 👋
+_take a rest from browsing_
 
-I'm mostly working on web projects, usually using vuejs and TypeScript, but sometimes also make local apps, for now mostly in go.
+- I work on web. 🌐
+- I also make a few useful CLIs. 🔧
+- I like golang quite a lot.
+- I like automation and when things just maintain themselves. 🤖
+Also check out [drafolin.ch](https://drafolin.ch).
 
-I'm all around the internet, always under the same username, and I also have [my own website!](https://drafolin.ch)
-
-If you found me throught one of my projects, and notice a problem, don't hesitate to open an issue!
-
-
-See you around!
-
-<!--
-**drafolin/drafolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you like my work, please consider supporting me!
