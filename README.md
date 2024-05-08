@@ -1,4 +1,14 @@
 ### Hi there 👋
+Heya! I'm Dråfølin, yet another developer!
+
+I'm mostly working on web projects, usually using vuejs and TypeScript, but sometimes also make local apps, for now mostly in go.
+
+I'm all around the internet, always under the same username, and I also have [my own website!](https://drafolin.ch)
+
+If you found me throught one of my projects, and notice a problem, don't hesitate to open an issue!
+
+
+See you around!
 
 <!--
 **drafolin/drafolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
